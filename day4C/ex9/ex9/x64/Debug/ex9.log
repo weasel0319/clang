@@ -1,0 +1,3 @@
+﻿  ex9_2.c
+E:\Code\C언어\day3C\ex9\ex9_2.c(13,8): warning C4047: '=': 'double *'의 간접 참조 수준이 'double **'과(와) 다릅니다.
+  ex9.vcxproj -> E:\Code\C언어\day3C\ex9\x64\Debug\ex9.exe

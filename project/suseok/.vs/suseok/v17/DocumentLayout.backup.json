@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9CD164-85A1-4EC7-ACFA-EFE481C809AC}|suseok.vcxproj|E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\input.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC9CD164-85A1-4EC7-ACFA-EFE481C809AC}|suseok.vcxproj|solutionrelative:input.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9CD164-85A1-4EC7-ACFA-EFE481C809AC}|suseok.vcxproj|E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\delete.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC9CD164-85A1-4EC7-ACFA-EFE481C809AC}|suseok.vcxproj|solutionrelative:delete.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9CD164-85A1-4EC7-ACFA-EFE481C809AC}|suseok.vcxproj|E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\suseok.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC9CD164-85A1-4EC7-ACFA-EFE481C809AC}|suseok.vcxproj|solutionrelative:suseok.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9CD164-85A1-4EC7-ACFA-EFE481C809AC}|suseok.vcxproj|E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\suseok_2d.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC9CD164-85A1-4EC7-ACFA-EFE481C809AC}|suseok.vcxproj|solutionrelative:suseok_2d.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9CD164-85A1-4EC7-ACFA-EFE481C809AC}|suseok.vcxproj|E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\output.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC9CD164-85A1-4EC7-ACFA-EFE481C809AC}|suseok.vcxproj|solutionrelative:output.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9CD164-85A1-4EC7-ACFA-EFE481C809AC}|suseok.vcxproj|E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\search.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC9CD164-85A1-4EC7-ACFA-EFE481C809AC}|suseok.vcxproj|solutionrelative:search.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "delete.c",
+              "DocumentMoniker": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\delete.c",
+              "RelativeDocumentMoniker": "delete.c",
+              "ToolTip": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\delete.c",
+              "RelativeToolTip": "delete.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-28T07:26:38.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "search.c",
+              "DocumentMoniker": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\search.c",
+              "RelativeDocumentMoniker": "search.c",
+              "ToolTip": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\search.c",
+              "RelativeToolTip": "search.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-28T07:25:43.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "output.c",
+              "DocumentMoniker": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\output.c",
+              "RelativeDocumentMoniker": "output.c",
+              "ToolTip": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\output.c",
+              "RelativeToolTip": "output.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-28T07:22:09.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "input.c",
+              "DocumentMoniker": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\input.c",
+              "RelativeDocumentMoniker": "input.c",
+              "ToolTip": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\input.c",
+              "RelativeToolTip": "input.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-28T07:21:11.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 294,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "suseok.h",
+              "DocumentMoniker": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\suseok.h",
+              "RelativeDocumentMoniker": "suseok.h",
+              "ToolTip": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\suseok.h",
+              "RelativeToolTip": "suseok.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-28T07:18:42.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "suseok_2d.c",
+              "DocumentMoniker": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\suseok_2d.c",
+              "RelativeDocumentMoniker": "suseok_2d.c",
+              "ToolTip": "E:\\Code\\C\uC5B8\uC5B4\\project\\suseok\\suseok_2d.c",
+              "RelativeToolTip": "suseok_2d.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-24T06:32:50.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

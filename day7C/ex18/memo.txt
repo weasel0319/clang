@@ -1,0 +1,42 @@
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int solution(int L, vector<int> A) {
+    int answer = 0, low, flag = 1, sum = 0, cmp = A[0], check = 0;
+
+    vector<int> B(L+1,0);
+    if (A[0] > A[L]){
+        low = A[L];
+    }
+    else low = A[0];
+
+    for (int i = 0; i <= L; i++){
+        if (A[i] > low){
+            B[i] = A[i];
+            flag = 0;
+        }
+    }
+    if (flag){
+        return L * (100 - low);
+    }
+    else{
+        for (int i = 0; i <= L; i++){
+            if (B[i] != 0){
+                if(B[i] > cmp){
+                    sum += (100 - cmp) * (i - check);
+                    cmp = B[i];
+                    check = i;
+                }
+                else{
+                    
+
+                    
+                }
+            }
+        }
+    }
+    answer = sum;
+    return answer;
+}

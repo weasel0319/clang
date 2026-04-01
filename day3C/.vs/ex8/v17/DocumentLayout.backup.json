@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\\uAC1C\uC778\uD559\uC2B5\\solution\\ex8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{424A687E-F6DF-467A-BC18-09907AB497BA}|ex8.vcxproj|E:\\Code\\\uAC1C\uC778\uD559\uC2B5\\solution\\ex8\\ex8_6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{424A687E-F6DF-467A-BC18-09907AB497BA}|ex8.vcxproj|solutionrelative:ex8_6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex8_6.c",
+              "DocumentMoniker": "E:\\Code\\\uAC1C\uC778\uD559\uC2B5\\solution\\ex8\\ex8_6.c",
+              "RelativeDocumentMoniker": "ex8_6.c",
+              "ToolTip": "E:\\Code\\\uAC1C\uC778\uD559\uC2B5\\solution\\ex8\\ex8_6.c",
+              "RelativeToolTip": "ex8_6.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-22T03:18:08.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

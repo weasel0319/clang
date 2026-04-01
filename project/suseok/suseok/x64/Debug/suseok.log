@@ -1,0 +1,3 @@
+﻿  input.c
+E:\Code\C언어\project\suseok\input.c(67,18): warning C4133: '=': 'STUDENT *'과(와) 'STUDENT *' 사이의 형식이 호환되지 않습니다.
+  suseok.vcxproj -> E:\Code\C언어\project\suseok\x64\Debug\suseok.exe

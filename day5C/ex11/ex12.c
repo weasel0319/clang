@@ -1,0 +1,26 @@
+//배열 두개 문자배열 문자열을 둘다 입력해서 앞이 큰지 뒤가 큰지 똑같은지
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+	char ch1[80];
+	char ch2[80];
+
+	fgets(ch1, sizeof(ch1), stdin);
+	ch1[strlen(ch1) - 1] = '\0';
+	fgets(ch2, sizeof(ch2), stdin);
+	ch2[strlen(ch2) - 1] = '\0';
+
+	if (strcmp(ch1, ch2) == 0) {
+		printf("%s == %s",ch1,ch2);
+	}
+	else if (strcmp(ch1, ch2) < 0) {
+		printf("%s < %s", ch1, ch2);
+	}
+	else {
+		printf("%s > %s", ch1, ch2);
+	}
+
+	return 0;
+}
